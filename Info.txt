@@ -1,0 +1,18 @@
+STEPS TO BUILD THE SOLUTION:
+
+- the project is built using node 12.22.12
+
+- unzip the project and run 'npm i'
+
+- after npm i is complete run 'npm start'
+
+- the project should start runnnig on 'localhost:3000'
+
+
+
+EXTERNAL LIBRARY INFORMATION:
+
+- bootstrap has been used just for styling purposes
+
+- a library has been used for multi select dropdown 'react-multiselect-dropdown-bootstrap'
+
